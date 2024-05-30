@@ -1,4 +1,4 @@
-package dev.lucas.ApiNinja.config;
+package dev.lucas.ApiNinja.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
